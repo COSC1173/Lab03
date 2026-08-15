@@ -100,8 +100,7 @@ if (score < 0 || score > 100) {
 ## Compile, Run, and Test
 
 ```bash
-bash tools/run_lab.sh lab03          # 18 official checks
-python3 tools/comment_check.py labs/lab03
+
 ```
 
 ---
