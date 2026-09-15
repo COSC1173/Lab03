@@ -143,12 +143,11 @@ your condition is missing the `% 400` clause or the `% 100` clause.
 
 ## Submission Checklist
 
-- [ ] `bash tools/run_lab.sh lab03` reports 18 of 18.
 - [ ] Score 105 produces `Invalid score` and no letter grade.
 - [ ] Score exactly 90 produces an `A`; exactly 70 produces a `C` and `PASS`.
 
 ```bash
-git add . && git commit -m "Lab 03 complete - all 18 checks passing" && git push
+
 ```
 
 ---
